@@ -1,23 +1,21 @@
 {
-    "name": "Старообрядцы в Крыму (генератор изображения для VK)",
-    "short_name": "РПСЦ Крым VK",
-    "description": "Старообрядцы в Крыму (генератор изображения для VK)",
-    "lang": "ru-RU",
-    "start_url": "https://sukochev.name/rpsc-crimea-vk/",
-    "display": "standalone",
-    "orientation": "portrait",
-    "icons": [
-        {
-            "src": "./android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "./android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff"
+  "name": "Старообрядцы в Крыму (генератор изображения для VK)",
+  "short_name": "РПСЦ Крым VK",
+  "lang": "ru-RU",
+  "icons": [
+    {
+      "src": "./img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
 }
