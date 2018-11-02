@@ -1,9 +1,9 @@
 {
     "name": "Старообрядцы в Крыму (генератор изображения для VK)",
-    "short_name": "RPSC_Crimea",
+    "short_name": "РПСЦ Крым VK",
     "description": "Старообрядцы в Крыму (генератор изображения для VK)",
     "lang": "ru-RU",
-    "start_url": "http://sukochev.name/rpsc-crimea-vk/",
+    "start_url": "https://sukochev.name/rpsc-crimea-vk/",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [
