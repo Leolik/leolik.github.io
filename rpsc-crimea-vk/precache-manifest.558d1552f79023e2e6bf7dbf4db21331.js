@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "https://sukochev.name/rpsc-crimea-vk/robots.txt"
   },
   {
-    "revision": "a9386bd12f44029bc7c0",
-    "url": "https://sukochev.name/rpsc-crimea-vk/js/chunk-vendors.1c4441a9.js"
+    "revision": "99e394315eca336a316e",
+    "url": "https://sukochev.name/rpsc-crimea-vk/js/chunk-vendors.40897af6.js"
   },
   {
-    "revision": "0babc095d9e0f5b3bcd7",
-    "url": "https://sukochev.name/rpsc-crimea-vk/js/app.36d7ed08.js"
+    "revision": "fde067a4130a0dcd439d",
+    "url": "https://sukochev.name/rpsc-crimea-vk/js/app.773c3ce2.js"
   },
   {
-    "revision": "5d2e374e307528f08c21995fde9ab916",
+    "revision": "19638c0b13178efb054e2a2fcd000494",
     "url": "https://sukochev.name/rpsc-crimea-vk/index.html"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "https://sukochev.name/rpsc-crimea-vk/fonts/triodion-ieUcs.54ca447d.woff2"
   },
   {
-    "revision": "a9386bd12f44029bc7c0",
-    "url": "https://sukochev.name/rpsc-crimea-vk/css/chunk-vendors.09ab00d2.css"
+    "revision": "99e394315eca336a316e",
+    "url": "https://sukochev.name/rpsc-crimea-vk/css/chunk-vendors.bb4f5749.css"
   },
   {
-    "revision": "0babc095d9e0f5b3bcd7",
-    "url": "https://sukochev.name/rpsc-crimea-vk/css/app.2a6de36c.css"
+    "revision": "fde067a4130a0dcd439d",
+    "url": "https://sukochev.name/rpsc-crimea-vk/css/app.afe75630.css"
   },
   {
     "revision": "c3d1aaa7d42e7321c55626049637f92f",
