@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "https://sukochev.name/rpsc-crimea-vk/js/chunk-vendors.40897af6.js"
   },
   {
-    "revision": "fde067a4130a0dcd439d",
-    "url": "https://sukochev.name/rpsc-crimea-vk/js/app.773c3ce2.js"
+    "revision": "e2dc6591e04b617795ff",
+    "url": "https://sukochev.name/rpsc-crimea-vk/js/app.17a9052d.js"
   },
   {
-    "revision": "19638c0b13178efb054e2a2fcd000494",
+    "revision": "54b6bd6d721520cdf7e41442bf512aeb",
     "url": "https://sukochev.name/rpsc-crimea-vk/index.html"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "https://sukochev.name/rpsc-crimea-vk/css/chunk-vendors.bb4f5749.css"
   },
   {
-    "revision": "fde067a4130a0dcd439d",
+    "revision": "e2dc6591e04b617795ff",
     "url": "https://sukochev.name/rpsc-crimea-vk/css/app.afe75630.css"
   },
   {
