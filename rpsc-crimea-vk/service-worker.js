@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://sukochev.name/rpsc-crimea-vk/precache-manifest.f3471ae65bc1239b585c59aea8163815.js"
+  "https://sukochev.name/rpsc-crimea-vk/precache-manifest.af5f04ea25a8b31d0c9013abe09c63a7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "rpsc_crimea_vk"});
